@@ -1,0 +1,226 @@
+id_venda,produto,categoria,regiao,forma_pagamento,quantidade,preco_unitario,avaliacao_cliente,data_venda
+104,Headset Bluetooth,Periféricos,Centro-Oeste,Boleto,2.0,159.9,,2026-02-16
+177,Cadeira Ergonômica,Redes,Centro-Oeste,Boleto,1.0,129.9,4.0,2026-06-06
+90,Mouse Óptico,Móveis,Sudeste,Cartão de Débito,,159.9,3.0,2026-05-15
+164,SSD 480GB,Redes,Sudeste,Cartão de Crédito,1.0,129.9,5.0,2026-05-22
+88,Teclado Mecânico,Móveis,sudeste,Boleto,2.0,599.0,4.0,2026-07-05
+220,Mouse Óptico,Periféricos,Centro-Oeste,Cartão de Débito,1.0,159.9,5.0,2026-08-04
+24,Roteador Wi-Fi,Informática,Nordeste,Cartão de Crédito,1.0,129.9,,2026-03-26
+200,Cadeira Ergonômica,Armazenamento,Nordeste,Cartão de Débito,2.0,899.0,5.0,2026-05-01
+154,"Monitor 24""",Redes,Sudeste,Boleto,,199.9,4.0,2026-03-16
+193,SSD 480GB,Impressão,Norte,Cartão de Crédito,1.0,199.9,3.0,2026-08-05
+70,"Monitor 24""",Móveis,Nordeste,Cartão de Débito,1.0,329.9,5.0,2026-05-05
+107,SSD 480GB,Impressão,Sudeste,Cartão de Crédito,1.0,159.9,,2026-06-16
+89,Cadeira Ergonômica,Informática,sudeste,Boleto,1.0,199.9,3.0,2026-06-05
+31,Webcam HD,Periféricos,Norte,Pix,1.0,199.9,,2026-05-14
+207,Notebook Gamer,Impressão,Sul,Cartão de Crédito,,899.0,,2026-02-21
+79,Roteador Wi-Fi,Periféricos,Centro-Oeste,Boleto,1.0,49.9,3.0,2026-02-18
+6,Roteador Wi-Fi,Móveis,Sudeste,Pix,2.0,1599.0,5.0,2026-06-21
+140,Cadeira Ergonômica,Periféricos,Nordeste,Cartão de Crédito,1.0,129.9,5.0,2026-04-04
+58,Headset Bluetooth,Áudio,Centro-Oeste,Pix,3.0,129.9,4.0,2026-06-27
+208,Roteador Wi-Fi,Informática,sudeste,Boleto,2.0,329.9,5.0,2026-05-14
+56,Webcam HD,Áudio,Norte,Cartão de Crédito,1.0,15990.0,,2026-03-31
+117,Notebook Gamer,Periféricos,Nordeste,Cartão de Crédito,1.0,159.9,3.0,2026-03-24
+5,"Monitor 24""",Áudio,Centro-Oeste,Pix,3.0,199.9,5.0,2026-06-27
+95,"Monitor 24""",Periféricos,Nordeste,Cartão de Débito,3.0,1599.0,5.0,2026-03-21
+166,Webcam HD,Informática,Sudeste,Cartão de Débito,,89.9,,2026-03-07
+147,Webcam HD,Móveis,Norte,Boleto,1.0,159.9,4.0,2026-02-09
+142,Mouse Óptico,Impressão,Sul,Cartão de Débito,2.0,89.9,5.0,2026-04-17
+217,Headset Bluetooth,Áudio,Sul,Cartão de Crédito,,1599.0,5.0,2026-04-13
+112,Headset Bluetooth,Áudio,Sul,Cartão de Crédito,1.0,899.0,4.0,2026-04-19
+153,Impressora Multifuncional,Armazenamento,Centro-Oeste,Pix,1.0,159.9,5.0,2026-02-14
+176,Cadeira Ergonômica,Armazenamento,sudeste,Cartão de Crédito,,1599.0,5.0,2026-03-29
+2,Webcam HD,Periféricos,Norte,Pix,1.0,89.9,5.0,2026-05-23
+173,Teclado Mecânico,Áudio,Norte,Cartão de Débito,,599.0,,2026-05-07
+189,Webcam HD,Áudio,sudeste,Cartão de Crédito,2.0,89.9,5.0,2026-06-22
+159,Roteador Wi-Fi,Móveis,Centro-Oeste,Boleto,1.0,159.9,4.0,2026-04-05
+150,Cadeira Ergonômica,Áudio,Centro-Oeste,Cartão de Crédito,2.0,159.9,5.0,2026-06-26
+1,"Monitor 24""",Redes,sudeste,Cartão de Crédito,1.0,249.9,,2026-06-18
+162,Headset Bluetooth,Armazenamento,Centro-Oeste,Cartão de Débito,1.0,159.9,5.0,2026-02-01
+115,Headset Bluetooth,Informática,Nordeste,Pix,,329.9,3.0,2026-05-06
+141,Roteador Wi-Fi,Periféricos,sudeste,Cartão de Crédito,,199.9,3.0,2026-02-10
+66,SSD 480GB,Redes,Norte,Boleto,,159.9,4.0,2026-03-31
+69,Roteador Wi-Fi,Áudio,Norte,Pix,,159.9,5.0,2026-02-12
+184,Mouse Óptico,Periféricos,Centro-Oeste,Pix,1.0,49.9,4.0,2026-02-15
+165,Teclado Mecânico,Impressão,Norte,Cartão de Crédito,1.0,249.9,5.0,2026-03-06
+18,Webcam HD,Redes,Sul,Pix,1.0,159.9,4.0,2026-03-11
+28,Roteador Wi-Fi,Periféricos,Sul,Boleto,1.0,129.9,5.0,2026-06-20
+160,Mouse Óptico,Periféricos,sudeste,Boleto,1.0,899.0,3.0,2026-07-04
+73,Notebook Gamer,Periféricos,Sudeste,Boleto,1.0,899.0,4.0,2026-05-14
+128,Mouse Óptico,Redes,Sudeste,Cartão de Débito,1.0,159.9,,2026-02-16
+97,Mouse Óptico,Redes,Centro-Oeste,Pix,,89.9,,2026-04-15
+81,Teclado Mecânico,Áudio,Sul,Pix,1.0,1599.0,5.0,2026-07-17
+27,"Monitor 24""",Informática,sudeste,Boleto,,89.9,5.0,2026-06-03
+145,Webcam HD,Periféricos,Sudeste,Boleto,2.0,599.0,4.0,2026-02-12
+26,Teclado Mecânico,Informática,Centro-Oeste,Cartão de Débito,1.0,329.9,3.0,2026-04-21
+209,Teclado Mecânico,Redes,sudeste,Cartão de Crédito,2.0,159.9,4.0,2026-04-19
+152,Notebook Gamer,Periféricos,Centro-Oeste,Pix,1.0,159.9,5.0,2026-02-24
+129,Notebook Gamer,Informática,Norte,Boleto,2.0,1599.0,5.0,2026-04-27
+83,Impressora Multifuncional,Periféricos,Sudeste,Pix,2.0,49.9,5.0,2026-07-17
+133,"Monitor 24""",Periféricos,Nordeste,Boleto,1.0,1599.0,5.0,2026-08-20
+161,Roteador Wi-Fi,Áudio,sudeste,Cartão de Débito,2.0,329.9,4.0,2026-04-05
+43,SSD 480GB,Redes,Norte,Pix,3.0,249.9,4.0,2026-06-15
+4,Notebook Gamer,Periféricos,Norte,Cartão de Débito,1.0,89.9,4.0,2026-02-12
+111,Headset Bluetooth,Informática,Sudeste,Cartão de Crédito,2.0,199.9,4.0,2026-06-30
+68,Teclado Mecânico,Áudio,Centro-Oeste,Pix,1.0,49.9,5.0,2026-07-21
+45,Impressora Multifuncional,Informática,Norte,Cartão de Crédito,2.0,329.9,5.0,2026-06-13
+212,Webcam HD,Móveis,Centro-Oeste,Cartão de Débito,,199.9,,2026-04-07
+41,Notebook Gamer,Periféricos,Sudeste,Boleto,1.0,159.9,5.0,2026-06-09
+170,Roteador Wi-Fi,Periféricos,Nordeste,Boleto,1.0,599.0,4.0,2026-03-19
+148,Roteador Wi-Fi,Impressão,Sudeste,Cartão de Débito,1.0,329.9,,2026-05-13
+194,Impressora Multifuncional,Áudio,Sul,Cartão de Débito,3.0,899.0,4.0,2026-02-20
+53,SSD 480GB,Móveis,sudeste,Pix,1.0,159.9,5.0,2026-05-22
+130,Mouse Óptico,Áudio,sudeste,Boleto,2.0,599.0,5.0,2026-02-01
+51,Headset Bluetooth,Informática,Sul,Boleto,1.0,899.0,,2026-03-12
+163,SSD 480GB,Impressão,Sul,Cartão de Débito,3.0,599.0,,2026-05-29
+135,SSD 480GB,Armazenamento,Sul,Cartão de Débito,1.0,49.9,5.0,2026-04-09
+205,Mouse Óptico,Periféricos,Nordeste,Cartão de Débito,1.0,1599.0,3.0,2026-07-28
+158,Headset Bluetooth,Periféricos,Centro-Oeste,Pix,3.0,599.0,4.0,2026-02-11
+91,"Monitor 24""",Redes,Nordeste,Cartão de Débito,2.0,1599.0,5.0,2026-04-26
+114,Notebook Gamer,Periféricos,Centro-Oeste,Boleto,1.0,199.9,5.0,2026-03-22
+191,Cadeira Ergonômica,Periféricos,sudeste,Pix,1.0,129.9,5.0,2026-04-25
+13,SSD 480GB,Informática,Sudeste,Boleto,,1599.0,4.0,2026-07-25
+131,Teclado Mecânico,Periféricos,Sul,Cartão de Crédito,1.0,599.0,5.0,2026-05-31
+101,Roteador Wi-Fi,Periféricos,Centro-Oeste,Boleto,1.0,329.9,3.0,2026-03-08
+167,Teclado Mecânico,Informática,Sul,Pix,1.0,49.9,5.0,2026-03-15
+11,SSD 480GB,Redes,Sudeste,Cartão de Crédito,3.0,129.9,4.0,2026-04-22
+98,Mouse Óptico,Móveis,Sul,Cartão de Débito,1.0,329.9,5.0,2026-04-14
+132,Cadeira Ergonômica,Redes,Centro-Oeste,Pix,1.0,159.9,4.0,2026-02-03
+78,Webcam HD,Informática,Centro-Oeste,Cartão de Débito,3.0,129.9,5.0,2026-07-11
+199,Teclado Mecânico,Áudio,Centro-Oeste,Cartão de Crédito,1.0,49.9,5.0,2026-08-13
+118,Notebook Gamer,Periféricos,Centro-Oeste,Pix,2.0,1599.0,,2026-04-17
+80,Roteador Wi-Fi,Informática,sudeste,Cartão de Crédito,,199.9,5.0,2026-06-02
+197,Teclado Mecânico,Periféricos,Sudeste,Boleto,1.0,49.9,,2026-06-17
+157,Headset Bluetooth,Informática,sudeste,Pix,,599.0,,2026-03-29
+25,Headset Bluetooth,Móveis,sudeste,Boleto,2.0,599.0,4.0,2026-05-05
+40,Mouse Óptico,Periféricos,sudeste,Cartão de Crédito,3.0,129.9,5.0,2026-03-08
+211,Impressora Multifuncional,Periféricos,Nordeste,Boleto,3.0,599.0,4.0,2026-05-27
+57,Teclado Mecânico,Áudio,Nordeste,Cartão de Crédito,1.0,89.9,5.0,2026-08-13
+213,Notebook Gamer,Móveis,Nordeste,Cartão de Débito,,599.0,5.0,2026-04-02
+146,Cadeira Ergonômica,Periféricos,Norte,Pix,1.0,899.0,,2026-04-25
+169,SSD 480GB,Móveis,Nordeste,Cartão de Débito,1.0,1599.0,4.0,2026-04-09
+102,Notebook Gamer,Periféricos,Sudeste,Pix,2.0,199.9,4.0,2026-02-24
+30,Webcam HD,Móveis,Nordeste,Pix,3.0,199.9,4.0,2026-08-19
+36,Teclado Mecânico,Redes,sudeste,Pix,1.0,89.9,4.0,2026-05-23
+50,Headset Bluetooth,Informática,Centro-Oeste,Cartão de Débito,2.0,129.9,5.0,2026-07-22
+214,Notebook Gamer,Áudio,Nordeste,Pix,,199.9,4.0,2026-04-05
+93,Cadeira Ergonômica,Armazenamento,Sudeste,Cartão de Débito,1.0,1599.0,,2026-07-01
+77,Roteador Wi-Fi,Periféricos,sudeste,Pix,1.0,129.9,5.0,2026-02-11
+23,Teclado Mecânico,Armazenamento,Norte,Cartão de Crédito,1.0,129.9,5.0,2026-06-26
+46,Roteador Wi-Fi,Impressão,Sudeste,Cartão de Crédito,1.0,199.9,4.0,2026-04-12
+122,Teclado Mecânico,Informática,Sul,Boleto,1.0,249.9,4.0,2026-07-18
+35,Notebook Gamer,Impressão,Norte,Cartão de Crédito,1.0,249.9,5.0,2026-04-30
+9,Notebook Gamer,Informática,Norte,Boleto,3.0,129.9,3.0,2026-04-29
+91,"Monitor 24""",Redes,Nordeste,Cartão de Débito,2.0,1599.0,5.0,2026-04-26
+151,Headset Bluetooth,Redes,Sudeste,Boleto,,249.9,4.0,2026-05-12
+63,"Monitor 24""",Periféricos,Nordeste,Boleto,3.0,49.9,,2026-03-25
+71,Roteador Wi-Fi,Armazenamento,Sul,Cartão de Crédito,2.0,249.9,4.0,2026-05-03
+168,Teclado Mecânico,Armazenamento,Norte,Boleto,1.0,899.0,5.0,2026-07-08
+215,Impressora Multifuncional,Armazenamento,Sul,Pix,2.0,249.9,4.0,2026-04-08
+34,Webcam HD,Informática,Sul,Cartão de Crédito,1.0,249.9,3.0,2026-03-23
+75,Impressora Multifuncional,Móveis,sudeste,Cartão de Débito,2.0,89.9,5.0,2026-06-07
+204,Impressora Multifuncional,Áudio,Sul,Cartão de Débito,1.0,89.9,4.0,2026-03-24
+42,Impressora Multifuncional,Armazenamento,Nordeste,Cartão de Débito,1.0,899.0,5.0,2026-08-09
+33,Cadeira Ergonômica,Periféricos,sudeste,Boleto,1.0,329.9,,2026-08-05
+100,Teclado Mecânico,Móveis,sudeste,Pix,1.0,159.9,4.0,2026-06-09
+172,Teclado Mecânico,Periféricos,sudeste,Boleto,1.0,1599.0,4.0,2026-06-14
+180,"Monitor 24""",Periféricos,Nordeste,Cartão de Débito,1.0,599.0,4.0,2026-02-04
+44,Mouse Óptico,Impressão,Sul,Cartão de Crédito,1.0,199.9,4.0,2026-03-09
+125,Roteador Wi-Fi,Periféricos,Centro-Oeste,Boleto,2.0,89.9,,2026-05-22
+120,Impressora Multifuncional,Móveis,Centro-Oeste,Cartão de Crédito,1.0,49.9,5.0,2026-07-03
+183,Impressora Multifuncional,Impressão,Norte,Cartão de Débito,1.0,249.9,4.0,2026-02-01
+143,Teclado Mecânico,Periféricos,Sul,Pix,1.0,899.0,5.0,2026-06-12
+218,Headset Bluetooth,Impressão,Sudeste,Cartão de Crédito,1.0,899.0,,2026-05-23
+59,Webcam HD,Informática,Nordeste,Cartão de Crédito,,329.9,4.0,2026-05-20
+12,Webcam HD,Impressão,Norte,Cartão de Débito,1.0,249.9,,2026-02-24
+76,Cadeira Ergonômica,Móveis,Sudeste,Cartão de Débito,,129.9,5.0,2026-06-10
+186,Headset Bluetooth,Móveis,Norte,Boleto,1.0,199.9,5.0,2026-07-11
+53,SSD 480GB,Móveis,sudeste,Pix,1.0,159.9,5.0,2026-05-22
+7,Impressora Multifuncional,Periféricos,Norte,Pix,1.0,89.9,5.0,2026-06-17
+202,SSD 480GB,Áudio,Norte,Cartão de Crédito,1.0,199.9,5.0,2026-05-23
+175,SSD 480GB,Periféricos,Sul,Cartão de Crédito,2.0,89.9,,2026-06-13
+187,SSD 480GB,Periféricos,Centro-Oeste,Cartão de Débito,,49.9,3.0,2026-02-21
+119,Impressora Multifuncional,Impressão,Norte,Pix,1.0,89.9,3.0,2026-05-18
+113,Cadeira Ergonômica,Armazenamento,sudeste,Pix,1.0,329.9,4.0,2026-04-02
+17,Roteador Wi-Fi,Áudio,Sul,Cartão de Débito,3.0,159.9,5.0,2026-07-31
+149,"Monitor 24""",Informática,sudeste,Pix,1.0,199.9,5.0,2026-04-11
+216,"Monitor 24""",Informática,Sul,Cartão de Débito,1.0,89.9,4.0,2026-04-19
+190,Roteador Wi-Fi,Áudio,Nordeste,Pix,1.0,159.9,4.0,2026-02-04
+20,Headset Bluetooth,Armazenamento,Norte,Boleto,1.0,129.9,5.0,2026-06-12
+206,SSD 480GB,Armazenamento,Norte,Boleto,3.0,129.9,4.0,2026-04-14
+127,Webcam HD,Impressão,Sudeste,Cartão de Débito,1.0,249.9,,2026-07-11
+8,Webcam HD,Impressão,Norte,Cartão de Débito,2.0,159.9,5.0,2026-04-05
+74,Mouse Óptico,Redes,Sudeste,Boleto,2.0,599.0,5.0,2026-04-01
+96,Headset Bluetooth,Periféricos,sudeste,Cartão de Débito,3.0,249.9,4.0,2026-03-25
+135,SSD 480GB,Armazenamento,Sul,Cartão de Débito,1.0,49.9,5.0,2026-04-09
+188,"Monitor 24""",Periféricos,Sudeste,Boleto,1.0,329.9,5.0,2026-02-10
+47,Teclado Mecânico,Impressão,Norte,Cartão de Crédito,1.0,49.9,3.0,2026-04-25
+123,SSD 480GB,Periféricos,Nordeste,Cartão de Débito,2.0,199.9,5.0,2026-05-25
+55,Mouse Óptico,Armazenamento,Norte,Cartão de Débito,1.0,249.9,5.0,2026-02-05
+39,Impressora Multifuncional,Impressão,sudeste,Boleto,1.0,129.9,4.0,2026-06-21
+181,"Monitor 24""",Impressão,Sudeste,Cartão de Crédito,,899.0,4.0,2026-07-21
+38,"Monitor 24""",Móveis,Sudeste,Pix,3.0,129.9,3.0,2026-07-18
+179,Teclado Mecânico,Armazenamento,Norte,Pix,1.0,1599.0,4.0,2026-04-19
+14,Cadeira Ergonômica,Redes,sudeste,Boleto,1.0,329.9,3.0,2026-05-02
+121,Headset Bluetooth,Periféricos,sudeste,Cartão de Crédito,1.0,129.9,3.0,2026-05-27
+124,Teclado Mecânico,Periféricos,Sudeste,Boleto,1.0,129.9,5.0,2026-05-19
+37,Teclado Mecânico,Redes,Centro-Oeste,Cartão de Débito,,249.9,5.0,2026-08-05
+3,Teclado Mecânico,Periféricos,Sudeste,Cartão de Débito,1.0,159.9,,2026-06-25
+136,Teclado Mecânico,Periféricos,Sudeste,Cartão de Débito,1.0,599.0,5.0,2026-05-26
+65,Mouse Óptico,Periféricos,Norte,Cartão de Débito,1.0,49.9,3.0,2026-02-28
+139,Cadeira Ergonômica,Periféricos,Centro-Oeste,Pix,1.0,1599.0,4.0,2026-04-02
+48,Roteador Wi-Fi,Periféricos,sudeste,Boleto,1.0,599.0,4.0,2026-06-17
+29,Roteador Wi-Fi,Áudio,sudeste,Cartão de Crédito,,49.9,,2026-04-08
+22,SSD 480GB,Redes,Sudeste,Pix,1.0,8990.0,4.0,2026-05-24
+174,Headset Bluetooth,Armazenamento,Norte,Pix,2.0,1599.0,5.0,2026-08-15
+21,Mouse Óptico,Impressão,sudeste,Cartão de Débito,1.0,599.0,3.0,2026-05-12
+32,Notebook Gamer,Impressão,Nordeste,Cartão de Crédito,1.0,899.0,,2026-04-13
+87,Teclado Mecânico,Impressão,Nordeste,Cartão de Débito,1.0,329.9,4.0,2026-02-20
+64,SSD 480GB,Móveis,Nordeste,Boleto,1.0,1599.0,5.0,2026-02-10
+92,Webcam HD,Armazenamento,Centro-Oeste,Cartão de Crédito,1.0,49.9,5.0,2026-02-04
+16,Notebook Gamer,Redes,Centro-Oeste,Cartão de Débito,1.0,129.9,4.0,2026-05-26
+108,SSD 480GB,Periféricos,Sudeste,Pix,1.0,329.9,4.0,2026-06-14
+82,SSD 480GB,Redes,Sudeste,Cartão de Débito,,329.9,5.0,2026-08-16
+126,Mouse Óptico,Impressão,Sul,Boleto,3.0,89.9,3.0,2026-03-22
+195,"Monitor 24""",Móveis,Sudeste,Cartão de Crédito,1.0,599.0,5.0,2026-07-10
+198,Headset Bluetooth,Informática,Sul,Pix,1.0,89.9,5.0,2026-02-09
+67,Notebook Gamer,Móveis,Centro-Oeste,Boleto,1.0,249.9,,2026-03-06
+155,Webcam HD,Áudio,Sul,Pix,1.0,129.9,5.0,2026-05-10
+50,Headset Bluetooth,Informática,Centro-Oeste,Cartão de Débito,2.0,129.9,5.0,2026-07-22
+171,"Monitor 24""",Áudio,sudeste,Boleto,1.0,159.9,4.0,2026-08-20
+201,Cadeira Ergonômica,Periféricos,sudeste,Boleto,2.0,1599.0,,2026-07-05
+72,Mouse Óptico,Armazenamento,Centro-Oeste,Cartão de Crédito,1.0,129.9,5.0,2026-06-09
+54,Headset Bluetooth,Armazenamento,Centro-Oeste,Pix,2.0,199.9,5.0,2026-02-24
+182,Headset Bluetooth,Áudio,Sudeste,Cartão de Crédito,,1599.0,,2026-06-24
+52,"Monitor 24""",Áudio,Sul,Cartão de Débito,1.0,249.9,5.0,2026-02-25
+10,Cadeira Ergonômica,Informática,Sudeste,Cartão de Débito,1.0,329.9,,2026-04-29
+185,Mouse Óptico,Periféricos,Sul,Cartão de Débito,1.0,89.9,4.0,2026-07-06
+210,Headset Bluetooth,Móveis,Centro-Oeste,Pix,1.0,1599.0,4.0,2026-06-17
+103,Notebook Gamer,Armazenamento,Nordeste,Pix,1.0,249.9,5.0,2026-05-17
+15,Impressora Multifuncional,Informática,Centro-Oeste,Cartão de Crédito,1.0,129.9,,2026-04-15
+19,Notebook Gamer,Periféricos,Centro-Oeste,Pix,2.0,899.0,5.0,2026-02-02
+60,Cadeira Ergonômica,Periféricos,sudeste,Cartão de Crédito,2.0,89.9,5.0,2026-07-06
+99,Cadeira Ergonômica,Áudio,Centro-Oeste,Pix,2.0,1599.0,3.0,2026-06-23
+94,Webcam HD,Redes,Nordeste,Cartão de Crédito,2.0,89.9,5.0,2026-02-14
+144,SSD 480GB,Áudio,sudeste,Cartão de Crédito,1.0,129.9,5.0,2026-07-03
+62,Cadeira Ergonômica,Móveis,Sudeste,Pix,1.0,159.9,4.0,2026-04-09
+138,Teclado Mecânico,Áudio,Nordeste,Boleto,3.0,199.9,5.0,2026-05-07
+14,Cadeira Ergonômica,Redes,sudeste,Boleto,1.0,329.9,3.0,2026-05-02
+109,SSD 480GB,Informática,Norte,Cartão de Crédito,1.0,89.9,,2026-03-05
+156,Notebook Gamer,Áudio,Sul,Cartão de Crédito,1.0,329.9,5.0,2026-02-14
+203,Teclado Mecânico,Armazenamento,Centro-Oeste,Cartão de Crédito,3.0,199.9,4.0,2026-03-28
+116,SSD 480GB,Periféricos,sudeste,Boleto,,899.0,3.0,2026-05-04
+178,Impressora Multifuncional,Periféricos,Sudeste,Cartão de Crédito,1.0,899.0,4.0,2026-05-02
+61,Teclado Mecânico,Áudio,Sudeste,Cartão de Débito,1.0,899.0,5.0,2026-06-22
+86,Roteador Wi-Fi,Periféricos,Nordeste,Cartão de Crédito,1.0,89.9,5.0,2026-04-16
+110,Impressora Multifuncional,Periféricos,sudeste,Boleto,1.0,899.0,5.0,2026-04-06
+49,Roteador Wi-Fi,Periféricos,sudeste,Boleto,3.0,329.9,4.0,2026-05-26
+192,Headset Bluetooth,Armazenamento,Norte,Pix,1.0,899.0,,2026-07-12
+105,Cadeira Ergonômica,Armazenamento,Sul,Pix,1.0,329.9,5.0,2026-04-05
+84,Impressora Multifuncional,Móveis,Sudeste,Cartão de Débito,1.0,1599.0,3.0,2026-04-10
+137,Notebook Gamer,Móveis,Centro-Oeste,Cartão de Débito,3.0,129.9,5.0,2026-04-02
+219,Roteador Wi-Fi,Áudio,Centro-Oeste,Cartão de Crédito,1.0,899.0,5.0,2026-07-05
+134,Teclado Mecânico,Periféricos,Centro-Oeste,Pix,1.0,599.0,3.0,2026-02-17
+106,Headset Bluetooth,Impressão,Centro-Oeste,Boleto,1.0,159.9,4.0,2026-02-09
+85,Notebook Gamer,Impressão,Nordeste,Boleto,1.0,89.9,3.0,2026-05-31
+196,Webcam HD,Móveis,sudeste,Cartão de Crédito,1.0,129.9,5.0,2026-03-08
